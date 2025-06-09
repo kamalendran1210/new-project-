@@ -1,0 +1,45 @@
+suruthiga:
+	admin panel service center profile edit window add formic and post method.
+	partner panel announcement page pinned api create and integrate frontend.
+	admin panel sos list edit api integrated its not available to create it.
+	partner panel clear service management module add filter.
+
+ammu:
+	admin panel setting module change password and forgot password api integration.
+	admin panel notification and query module status api integration its not available to create.
+	admin service catalog fetch all category and service.
+	partner panel clear service management module job card delete bug.
+
+vel:
+	partner panel notification module update status api integration.
+	modify job card input form in partner panel.
+   	booking slot page api data mapping and fetch in backend use axios.
+	admin service catalog post new category and service.
+	
+
+Vignesh:
+	
+        leave.
+	
+	
+	
+
+kamalesh:
+	admin panel modify or change city management module to send backend latitude and longitude.
+	to create backend api for user to confirm the service booking to add the parter servicebooking.
+	admin panel dashboard backend api modify or improve data processing ,incase is not defined to create new.
+	admin panel dashboard api integration and data mapping. 
+	 
+
+        
+
+arun:
+     to improve api for customer management api in backend, add services and order field and to filter 
+     based on partner id.
+
+     admin panel customer manage module service history api create and integrate.
+	
+     partner panel dashboard backend api modify or improve data processing ,incase is not defined to create new.
+     partner panel dashboard api integration and data mapping. 
+
+     
